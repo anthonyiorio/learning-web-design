@@ -43,7 +43,7 @@
     <p>Location: Baker's Corner, Seekonk, MA</p>
     <p>Hours: Tuesday to Saturday, <time datetime="11:00">11am</time> to <time datetime="00:00">midnight</time></p>
   </div>
-  <p><small>All content copyright &copy; 2012, Black Goose Bistro and Jennifer Robbins</small><p>
+  <p><small>All content copyright &#169; 2012, Black Goose Bistro and Jennifer Robbins</small><p>
 </footer>
 
 </body>
